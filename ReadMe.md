@@ -30,7 +30,7 @@ Ask me about everything! 💬 [LinkedIn][-1] | ✉️ [Email](mailto:tofunmiesth
 - **SQL**
 
 ---
-## :zap: GitHub Stats>
+## :zap: GitHub Stats 
 ![Tofunmi's Github stats](https://github-readme-stats.vercel.app/api?username=iTofunmi&show_icons=true)
 
 
