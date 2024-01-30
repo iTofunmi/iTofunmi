@@ -5,9 +5,9 @@ I am on a journey to build amazing products. It's about more than just code for 
 
 ## 📫 Contact Me on Social Media
 
-Ask me about everything! 💬 [LinkedIn][-1] | ✉️ [Email](mailto:tofunmiesther9@gmail.com) | 💬 [GitHub](https://github.com/iTofunmi) 
+💬 [LinkedIn][-1] | ✉️ [Email](mailto:tofunmiesther9@gmail.com) | 💬 [GitHub](https://github.com/iTofunmi) 
 
-## I'm a Computer science student at Kibo!!
+## Truths About me !!
 
 - 🔭 I'm a first year Computer science student at Kibo!
 - 👯 I’m also interning as an Automations Assistant at Kibo
@@ -28,6 +28,9 @@ Ask me about everything! 💬 [LinkedIn][-1] | ✉️ [Email](mailto:tofunmiesth
 - **Airtable**
 - **Google Sheets**
 - **SQL**
+
+
+
 
 ---
 ## :zap: GitHub Stats 
