@@ -30,11 +30,8 @@ Ask me about everything! 💬 [LinkedIn][-1] | ✉️ [Email](mailto:tofunmiesth
 - **SQL**
 
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
+## :zap: GitHub Stats>
 ![Tofunmi's Github stats](https://github-readme-stats.vercel.app/api?username=iTofunmi&show_icons=true)
-
-</details>
 
 
 [-1]:https://www.linkedin.com/in/tofunmi-odusile/
