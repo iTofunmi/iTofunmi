@@ -1,7 +1,7 @@
 # Hi, Nice to Meet You! I'm Tofunmi 👋 
 ![Static Badge](https://img.shields.io/badge/gender-female-blue)
 
-I am from Lagos, Nigeria on a journey to build amazing global products. It's about more than code for me. I'm on a mission where code, creativity, and data become powerful tools for solving problems. My experience in customer experience has also polished my teamwork, communication, and leadership skills. I am proficient in **Python**, **HTML** **CSS**, **Flask** and **Airtable**. I am open to learning more about product management!
+A no-code developer from Lagos, Nigeria on a journey to build amazing global products. It's about more than code for me. I'm on a mission where code, creativity, and data become powerful tools for solving problems. My experience in customer experience has also polished my teamwork, communication, and leadership skills. I am proficient in **Python**, **HTML** **CSS**, **Zapier** and **Airtable**. I am open to learning more about product management!
 
 ## 📫 Contact Me on Social Media
 
