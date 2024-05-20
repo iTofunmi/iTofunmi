@@ -9,9 +9,9 @@ A no-code developer from Lagos, Nigeria on a journey to build amazing global pro
 
 ## Truths About me !!
 
-- 🔭 I'm a first year Computer science student at Kibo School!
-- 👯 I’m an Automations Assistant intern at Kibo
-- 🥅 2024 Goals: Learn more about Product Management
+- 🔭 I'm getting a second degree in Computer science!
+- 👯 I’m a no-code developer at Kibo
+- 🥅 2024 Goals: Learn more about Product Management and how no code fits into product development
 - ⚡ Fun fact: I love to read and watch movies.
 
 ## Check out my previous projects 😻!!
@@ -24,7 +24,7 @@ A no-code developer from Lagos, Nigeria on a journey to build amazing global pro
 - **Python**, 
 - **HTML** 
 - **CSS**, 
-- **Flask** 
+- **Zapier** 
 - **Airtable**
 - **Google Sheets**
 - **SQL**
